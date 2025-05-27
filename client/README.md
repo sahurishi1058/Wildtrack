@@ -1,3 +1,6 @@
+This project's aim is to identify animals during the takeoff of any aviation vehicle whether its commercial or defense based.It analyzes and forecasts the animal behavior and then if any casualties found it triggers the system to halt their run .
+This is project is under-development and is aimed to be more modernized for any advanced uses .
+Note: Currently under working 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
